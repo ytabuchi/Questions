@@ -8,7 +8,7 @@ Sample project to answer some questions from customers.
 
 Xamarin Native.
 
-'XN/XQuestions/XQuestions.Droid/CanvasViewActivity.cs' shows below:
+`XN/XQuestions/XQuestions.Droid/CanvasViewActivity.cs` shows below:
 
 - how to draw the line to canvas.
 - how to build content within code. 
