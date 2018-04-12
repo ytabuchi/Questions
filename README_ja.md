@@ -6,7 +6,7 @@
 
 Xamarin ネイティブのプロジェクト
 
-'XN/XQuestions/XQuestions.Droid/CanvasViewActivity.cs' で
+`XN/XQuestions/XQuestions.Droid/CanvasViewActivity.cs` で
 
 - DrawLine メソッドを使用して Canvas に描画
 - コードで View を生成
