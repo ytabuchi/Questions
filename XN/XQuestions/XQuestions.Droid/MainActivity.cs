@@ -10,7 +10,7 @@ using Android.Content;
 
 namespace XQuestions.Droid
 {
-    [Activity(Label = "XQuestions.Droid", MainLauncher = true, Icon = "@mipmap/icon")]
+    [Activity(Label = "XQuestions.Droid", MainLauncher = true)]
     public class MainActivity : Activity
     {
         protected override void OnCreate(Bundle savedInstanceState)
